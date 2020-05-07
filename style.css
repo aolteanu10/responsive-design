@@ -23,8 +23,6 @@ body {
     list-style: none;
     display: flex;
     align-items: center;
-    justify-content: space-between;
-    height: 1vh;
 }
 
 a {
@@ -73,7 +71,7 @@ a {
 .box {
     background-color: gray;
     padding: 100px;
-    margin: 10px 0;
+    margin: 10px;
 }
 
 /* FOOTER */
